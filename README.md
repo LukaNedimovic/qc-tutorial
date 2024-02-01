@@ -1,5 +1,5 @@
 <h1> 
-  QC Tutorial
+  ⚛️ QC Tutorial
 </h1> 
 <i> Read this file in <a href="https://github.com/LukaNedimovic/qc-tutorial/blob/main/README.en.md">English</a> </i>
 
