@@ -1,5 +1,5 @@
 <h1> 
-  QC Tutorial
+  ⚛️ QC Tutorial
 </h1> 
 <i> Pročitajte ovaj uvod na <a href="https://github.com/LukaNedimovic/qc-tutorial/blob/main/README.md">srpskom</a> </i>
 
